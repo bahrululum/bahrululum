@@ -3,7 +3,7 @@
 
 ### Let's connect!
 <p>
-    <a href="https://twitter.com/KaamenRider" target="blank"><img src="https://img.shields.io/badge/@txtdrayang-30302f?style=flat&logo=twitter" /></a>
+    <a href="https://twitter.com/KaamenRider" target="blank"><img src="https://img.shields.io/badge/@KaamenRider-30302f?style=flat&logo=twitter" /></a>
 
 </p>
 
@@ -19,12 +19,11 @@
 
 ### About Me
 
-```javascript
 const data = {
   code: ["Javascript", "PHP"],
   frontEnd: ["React", "Codeigniter"],
   backEnd: ["Express", "Codeigniter"],
   design: ["Figma", "Adobe Photoshop", "Adobe XD"]
 }
-```
+
 
