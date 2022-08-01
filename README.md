@@ -3,7 +3,7 @@
 
 ### Let's connect!
 <p>
-    <a href="https://twitter.com/txtdrayang" target="blank"><img src="https://img.shields.io/badge/@txtdrayang-30302f?style=flat&logo=twitter" /></a>
+    <a href="https://twitter.com/KaamenRider" target="blank"><img src="https://img.shields.io/badge/@txtdrayang-30302f?style=flat&logo=twitter" /></a>
 
 </p>
 
