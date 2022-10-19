@@ -23,7 +23,7 @@ const data = {
   code: ["Javascript", "PHP"],
   frontEnd: ["React", "Codeigniter"],
   backEnd: ["Express", "Codeigniter"],
-  design: ["Figma", "Adobe Photoshop", "Adobe XD"]
+  design: ["Figma", "Adobe Photoshop"]
 }
 
 
