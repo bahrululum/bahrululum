@@ -3,7 +3,7 @@
 
 ### Let's connect!
 <p>
-    <a href="https://twitter.com/ekstrak_melati" target="blank"><img src="https://img.shields.io/badge/@ekstrak_melati-30302f?style=flat&logo=twitter" /></a>
+    <a href="https://twitter.com/boisdonkry" target="blank"><img src="https://img.shields.io/badge/@boisdonkry-30302f?style=flat&logo=twitter" /></a>
 
 </p>
 
